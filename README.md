@@ -226,7 +226,9 @@ project-folder/
 - Subscriber belum ditambahkan  
 - IMSI / Key beda  
 - IP config salah  
-- Service Open5GS belum jalan  
+- Service Open5GS belum jalan
+- kesalahan pada penggunaan frekuensi
+- interupsi terhadap perangkat asing yang menggunakan frekuensi kerja yang sama
 
 Cek service:
 
